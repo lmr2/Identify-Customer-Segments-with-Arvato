@@ -29,4 +29,4 @@ Data is provided by Arvato partners and Udacity, and is not allowed to be publis
 1) Demographic data for the general population of Germany
 2) Demographic data for customers of a mail-order company
 3) Data Dictionary with detailed information file about the features in the provided datasets.
-4) A Summary of feature attributes for demographics data
+4) A summary of feature attributes for demographics data
